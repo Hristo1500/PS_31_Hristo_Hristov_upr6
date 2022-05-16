@@ -1,0 +1,17 @@
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\bin\Debug\Logs.txt
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\bin\Debug\UserLogin.exe.config
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\bin\Debug\UserLogin.exe
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\bin\Debug\UserLogin.pdb
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\bin\Debug\EntityFramework.dll
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\bin\Debug\EntityFramework.xml
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\obj\Debug\UserLogin.csproj.SuggestedBindingRedirects.cache
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\obj\Debug\UserLogin.Migrations.InsertUser.resources
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\obj\Debug\UserLogin.Migrations.InsertLogs.resources
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\obj\Debug\UserLogin.csproj.GenerateResource.cache
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\obj\Debug\UserLogin.exe
+D:\Uni\PS\PS_31_Hristo_Hristov\UserLogin\obj\Debug\UserLogin.pdb
